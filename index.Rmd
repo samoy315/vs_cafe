@@ -1,8 +1,11 @@
 ---
-title: "Reporte del subprodcto 2"
+title: "SUBPRODUCTO 2"
+autor: Victor Sevilla y Oscar Silva
+date: "`r Sys.Date()`"
+output: html_document
 ---
 
-Hello, Website!
+Hello, Website loco!
 
 For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
 
